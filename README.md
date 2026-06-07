@@ -1,5 +1,3 @@
-# Advert
-
 # 🪧 Billboard Detector & Ad Replacer
 
 A YOLOv8-powered pipeline that **detects billboards** in images and **replaces them with custom advertisements** using perspective-correct warping. Built for Google Colab with a clean widget-based UI.
